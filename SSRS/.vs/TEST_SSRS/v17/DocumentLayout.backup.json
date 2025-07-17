@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|solutionrelative:TEST_SSRS\\Report1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report6.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|solutionrelative:TEST_SSRS\\Report6.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|solutionrelative:TEST_SSRS\\Report5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|solutionrelative:TEST_SSRS\\Report3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|solutionrelative:TEST_SSRS\\Report4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{A2A4804C-4BED-3E52-5202-67BF7ADBCCA0}|TEST_SSRS\\TEST_SSRS.rptproj|solutionrelative:TEST_SSRS\\Report2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report1.rdl [Design]",
+              "DocumentMoniker": "D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report1.rdl",
+              "RelativeDocumentMoniker": "TEST_SSRS\\Report1.rdl",
+              "ToolTip": "D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report1.rdl [Design]",
+              "RelativeToolTip": "TEST_SSRS\\Report1.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-11T11:38:11.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report6.rdl [Design]",
+              "DocumentMoniker": "D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report6.rdl",
+              "RelativeDocumentMoniker": "TEST_SSRS\\Report6.rdl",
+              "ToolTip": "D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report6.rdl [Design]",
+              "RelativeToolTip": "TEST_SSRS\\Report6.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-08T22:44:49.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report5.rdl [Design]",
+              "DocumentMoniker": "D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report5.rdl",
+              "RelativeDocumentMoniker": "TEST_SSRS\\Report5.rdl",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gra_pro\\SSRS\\TEST_SSRS\\TEST_SSRS\\Report5.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-08T22:06:02.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report4.rdl [Design]",
+              "DocumentMoniker": "D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report4.rdl",
+              "RelativeDocumentMoniker": "TEST_SSRS\\Report4.rdl",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gra_pro\\SSRS\\TEST_SSRS\\TEST_SSRS\\Report4.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-08T21:29:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report3.rdl [Design]",
+              "DocumentMoniker": "D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report3.rdl",
+              "RelativeDocumentMoniker": "TEST_SSRS\\Report3.rdl",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gra_pro\\SSRS\\TEST_SSRS\\TEST_SSRS\\Report3.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-08T20:48:39.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report2.rdl [Design]",
+              "DocumentMoniker": "D:\\power bi zaqaziq\\Graduation Project\\TEST_SSRS\\TEST_SSRS\\TEST_SSRS\\Report2.rdl",
+              "RelativeDocumentMoniker": "TEST_SSRS\\Report2.rdl",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gra_pro\\SSRS\\TEST_SSRS\\TEST_SSRS\\Report2.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-08T19:37:58.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
