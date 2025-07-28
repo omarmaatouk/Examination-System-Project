@@ -51,7 +51,7 @@ This project simulates a real-world BI solution including data modeling, ETL, DW
 ![Dashboard 1](Dashboards/1.png)
 
 ### 📈 Dashboard Sample 2
-![Dashboard 2](Dashboards/2.jpg)
+![Dashboard 2](Dashboards/2.png)
 
 ### 📉 Dashboard Sample 3
 ![Dashboard 3](Dashboards/3.png)
