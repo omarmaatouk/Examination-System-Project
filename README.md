@@ -48,15 +48,15 @@ This project simulates a real-world BI solution including data modeling, ETL, DW
 ## 🖥️ Screenshots
 
 ### 📊 Dashboard Sample 1
-![Dashboard 1](Dashboards/dashboard1.png)
+![Dashboard 1](Dashboards/1.png)
 
 ### 📈 Dashboard Sample 2
-![Dashboard 2](Dashboards/dashboard2.jpg)
+![Dashboard 2](Dashboards/2.jpg)
 
 ### 📉 Dashboard Sample 3
-![Dashboard 3](Dashboards/dashboard3.png)
+![Dashboard 3](Dashboards/3.png)
 
-> *(Make sure these images exist inside your "Dashboards" folder)*
+
 
 ---
 
